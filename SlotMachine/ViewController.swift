@@ -2,8 +2,9 @@
 //  ViewController.swift
 //  SlotMachine
 //
-//  Created by Aluno on 05/09/22.
-//
+//  Created by Allan Rodrigo Santana on 05/09/22.
+//  git@github.com:santanarod/slotMachineSwift.git
+//  Curso In-Company Bradesco - Visionnaire - PUCPR | Desenvolvimento de Software iOS
 
 import UIKit
 
